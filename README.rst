@@ -3,5 +3,6 @@
 Dependencies
 ------------
 
-pip install -U readline \
-	odoorpc
+```
+pip install -r requirements.txt
+```
